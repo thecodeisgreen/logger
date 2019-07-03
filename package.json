@@ -1,0 +1,14 @@
+{
+  "name": "@thecodeisgreen/logger",
+  "version": "0.0.1",
+  "description": "logger based on winston",
+  "main": "index.js",
+  "repository": "https://github.com/thecodeisgreen/logger",
+  "author": "thecodeisgreen",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.9.0"
+  }
+}
