@@ -1,6 +1,6 @@
 {
   "name": "@thecodeisgreen/logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "logger based on winston",
   "main": "index.js",
   "repository": "https://github.com/thecodeisgreen/logger",
