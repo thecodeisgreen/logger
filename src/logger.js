@@ -9,6 +9,7 @@ let logger = winston.createLogger({
   levels: winston.config.syslog.levels,
   level: 'info',
   format: format.combine(
+    format.colorize(),
     format.timestamp(),
     format.json()
   ),
